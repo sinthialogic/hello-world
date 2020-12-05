@@ -1,6 +1,3 @@
 # hello-world
-Repository di prova
-
-prova cambiamenti
-
-seconda riga
+Repository di prova<br>
+Ho aggiunto il file Sintesi.csv
